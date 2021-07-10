@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 
+I'm Benoît.  
+I'm a fan of new technologies, innovation, sport, wine and good food.
 
 <!--
 **bhagenbourger/bhagenbourger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
